@@ -8,7 +8,6 @@
 ##sorted -> Retorna uma lista com os elementos ordenados.
 ##zip -> Pareia os elementos de duas ou mais sequências.
 ##reversed -> Retorna um iterador inverso de uma sequência.
-##comprehensions ->
 
 ##O enumerate(iterable[], start), funciona básicamente com quaçquer conjunto de dados
 ##que possa ser iterado, como listas, tuplas, sequências em geral. Para cada elemento
