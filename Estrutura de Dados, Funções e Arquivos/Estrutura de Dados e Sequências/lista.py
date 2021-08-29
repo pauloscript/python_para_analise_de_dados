@@ -82,3 +82,8 @@
 
 ##Observe que a posição final (stop) não faz parte dos elementos, sendo o final - 1, Ex: 0:4 vai retornar
 ##os elementos do índice 0 até o índice 3. No 4:8 vai retornar os elementos do índice 4 até o índice 7.
+
+#dados = [1,2,3]
+#copia = dados
+#copia.append(4)
+#print(dados)
