@@ -1,2 +1,2 @@
-# python_para_analise_de_dados
+# Python para Análise de Dados
 Tratamento de dados com Pandas, Numpy e IPhyton.
